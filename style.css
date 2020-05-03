@@ -1,0 +1,34 @@
+.top_row{
+  display: flex;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  margin-top:20px;
+  height: 50px;
+}
+
+.About {
+  margin-left:20px;
+}
+
+.Store {
+  margin-left:10px;
+}
+
+.Gmail {
+  margin-left: auto;
+}
+.Images {
+  margin-left:10px;
+}
+.Green {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: green;
+    margin-left:10px;
+  }
+.body {
+  text-align: center;
+}
