@@ -1,13 +1,10 @@
-.top_row{
+.top_row {
   display: flex;
   align-items: center;
   font-family: Arial, sans-serif;
   font-size: 13px;
   margin-top:20px;
   height: 50px;
-}
-
-.About {
   margin-left:20px;
 }
 
@@ -32,3 +29,28 @@
 .body {
   text-align: center;
 }
+input {
+  border-radius: 25px;
+  border: 1px solid #949599;
+  margin: 10px 0 10px 0;
+  padding: 10px 10px;
+  width: 300px;
+}
+button {
+  border-radius: 5px;
+  padding: 10px 10px;
+}
+.bottom_row {
+  display: flex;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  margin-top:20px;
+  height: 50px;
+  margin-left: 20px;
+}
+.Business {margin-left: 10px;}
+.HowSearchWorks {margin-left: 10px;}
+.Privacy {margin-left: auto;}
+.Terms {margin-left: 10px;}
+.Settings {margin-left: 10px;}
